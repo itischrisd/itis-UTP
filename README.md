@@ -5,7 +5,7 @@
   UTP (Universal Programming Techniques)
 </h1>
 
-Repository that contains solutions to the exercises for the UTP (Universal Programming Techniques) Java practical classes from SDKP, taught by Michał Łukasik during studies on [PJAIT](https://www.pja.edu.pl/en/).
+Repository that contains solutions to the exercises for the UTP (Universal Programming Techniques) Java practical classes on SDKP, taught by Michał Łukasik during studies on [PJAIT](https://www.pja.edu.pl/en/).
 
 The following code is distributed under the [GPLv3](./LICENSE).
 
